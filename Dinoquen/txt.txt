@@ -1,0 +1,49 @@
+
+
+ {rsform 3}
+
+ 
+ <table style="height: 18px; width: 76px;">
+	<tbody>
+		<tr>
+			<td>&nbsp;<span style="color: #ffffff;">{rsform 3}</span>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+Los muebles son replicas nuevas trabajadas en detalle con mucha calidad.
+
+Las cuales se pueden hacer en el tapizado que usted desee ( lo cual hace que tarde algo mas en la entrega )
+
+Se venden por juego de seis sillas 
+
+Las caracteristicas basicas de el Muebles son:
+
+
+
+Como Trabajamos 
+
+Todos nuestros muebles se pueden ver y consultar cualquier tipo de consulta 
+por la pagina. Todavia no tenemos un lugar fisica para poder exibir nuestros 
+muebles vintage en Neuquen.
+En la imagen que aparecen arriba podra recorrer los distintos muebles nos puede
+consultar cualquier duda.
+
+Modalidad de compra 
+
+Nos ponemos en contacto con usted le ofrecemos todas las garantias posibles se
+estipula una seña del mueble y con la entrega el resto del saldo.
+
+
+Diseño de Interiores
+
+En estos momentos en los diseños de los ambientes hay una tendendia a introducir
+ muebles anticuados en ambientes contemporaneos proporcinando un estilo espectacular.
+Los sillones coloniales o estilo Luis IXV en un living a las sillas oval en
+un diseño original y unico.
+
+
+  <meta property='fb:admins' content='NUESTRO_ID_DE_USUARIO'/>
+<meta property='fb:app_id' content='ID_DE_LA_APLICACION'/>
+

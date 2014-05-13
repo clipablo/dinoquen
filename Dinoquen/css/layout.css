@@ -1,0 +1,136 @@
+/*---------------------------------------------------------------------------------------
+layout.css Este archivo contiene los estilos css que determinan el diseño de nuestro Sitio  backgroundinoq.jpg
+-------------------------------------------------------------------------------------- */
+.fondo {
+	background:url(../images/fondo1.jpg) center top repeat #FDEDCC;
+	background-size:  100%;
+	margin: 0 auto;
+    padding: 0;
+	}
+ 
+ #logo {
+    display:block;
+    width:960px;
+    height:290px;
+    background:url(../images/portadasdinoquen.jpg) no-repeat;
+    text-indent:-9999px;
+    overflow:hidden;
+    margin:auto;
+}
+#contenido{
+       background:url(../images/arena1.jpg) repeat;
+       width:960px;
+       margin: 15px auto;
+       -moz-border-radius: 10px;
+       -webkit-border-radius: 10px;
+   	   border-radius: 10px; /* future proofing */
+       -khtml-border-radius: 10px; /* for old Konqueror browsers */
+
+}   
+      
+
+#articulo1{      
+      	float: left;
+		width: 590px;
+		margin: auto;
+background-position: bottom center ;  
+       }
+	   
+	   
+	   
+#principal{      
+      	float: left;
+		width: 580px;
+		margin-left: 3px;
+       }
+#articulo3 {	 
+		float: right;
+		width: 300px;
+		}  
+		
+#right {	 
+		float: right;
+		width: 200px;
+		} 
+
+#footer {
+         background:url(../images/pie.png) center no-repeat ;
+         background-position: bottom center ;
+         
+		  background-size:auto;
+		 padding-top: 70px;
+         padding-bottom: 1px; 
+         margin:inherit;
+         
+     	 }     	 
+#menu-principal	{
+	height:34px ;
+	width: 930px;
+	background:url(../images/menu.jpg)  repeat;
+	font: menu;
+	margin:auto;
+	position:inherit;
+	overflow:hidden;
+	} 
+#menu-menulateral	{
+	height:34px ;
+	width: 330px;
+	background:url(../images/menu.jpg)  repeat;
+	font: menu;
+	margin:auto;
+	position:right;
+	overflow:hidden;
+	} 
+	
+	
+	
+/*--------------------------------------------------------------------------------------------------
+ Clase .clearfix: Esta clase hacer que los elementos no flotantes que contienen elementos flotantes,
+ adapten su altura en base a los elementos flotantes que contienen.
+ -background-color: #FDEDCC;
+         background-size: 100%;
+         width:960px;
+         padding-bottom: 13px;
+         position:inherit;
+         border-bottom-left-radius: 9px;
+    	 border-bottom-right-radius: 9px;
+    	 overflow:hidden;
+    	 margin:auto;
+    	 margin-bottom: 15px;
+
+    	 background:url(../images/backgroundinoq.jpg) top no-repeat #FDEDCC;
+
+    	 #logo {
+	display:block;
+ 	width:975px;
+	height:230px;
+	background:url(../images/logo2.png)left no-repeat;
+	margin:inherit;
+	float : left;
+	text-indent:-9999px;
+	overflow:hidden;
+
+}
+ .skins_core_ImageNewSkin-image {
+    box-shadow: 0 0 0 #000000;
+    position: static;
+} 
+https://ssl.panoramio.com/user/8266840
+https://mapsengine.google.com
+
+ -------------------------------------------------------------------------------------------------*/
+	
+.clearfix:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+* html > body .clearfix {
+    display: block;
+    width: 100%;
+}
+* html .clearfix {
+    height: 1%;
+}
